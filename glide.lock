@@ -1,0 +1,14 @@
+hash: 2e6d5f7399888ea380cf428dd334747a455313e666350cd47bc726b9ee299339
+updated: 2017-09-02T11:56:46.651358992-06:00
+imports:
+- name: github.com/c-bata/go-prompt
+  version: b5d7d9eae33759a6646cb41768966b593eef18f3
+- name: github.com/pkg/term
+  version: b1f72af2d63057363398bec5873d16a98b453312
+  subpackages:
+  - termios
+- name: golang.org/x/sys
+  version: 8f0908ab3b2457e2e15403d3697c9ef5cb4b57a9
+  subpackages:
+  - unix
+testImports: []

@@ -1,0 +1,4 @@
+package: github.com/technosophos/helmet
+import:
+- package: github.com/c-bata/go-prompt
+  version: ^0.1.0
